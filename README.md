@@ -46,4 +46,4 @@ o	Converting date and numeric columns to proper formats
 2.	Run the notebook cells step by step to view data cleaning, analysis, and visualizations. 
 3.	Modify the code to explore additional insights if needed. 
 9.	Conclusion 
-This project demonstrates how data analytics can be used to assess digital literacy levels across different population groups. By applying data cleaning, analysis, and visualization techniques in Python, key digital gaps were identified based on income, education, and employment status. The insights from this analysis highlight the importance of targeted digital inclusion efforts and showcase practical dat
+This project demonstrates how data analytics can be used to assess digital literacy levels across different population groups. By applying data cleaning, analysis, and visualization techniques in Python, key digital gaps were identified based on income, education, and employment status. The insights from this analysis highlight the importance of targeted digital inclusion efforts and showcase practical data
